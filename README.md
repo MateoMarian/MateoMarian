@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi I’m currently learning some js and pls don't juge me.
+
 
 <!--
 **MateoMarian/MateoMarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
