@@ -1,5 +1,8 @@
-## Hi I’m currently learning some js and pls don't juge me.
+ 🐢 -> Hi my name is Mateo i have 16 and I like working with I2C. 
 
+ 📃 -> The programing language I usually use is pytho, learning c++ and js.
+
+ 💻 ->  Now I'm working on a translator for the alfabet to binary for an I2C for an experiment.
 
 <!--
 **MateoMarian/MateoMarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
