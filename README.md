@@ -12,7 +12,6 @@
 
 - 🤝 I’m available for **freelancing**.
 
-- 🌱 I’m currently learning **Js** and **c++** for **arduino** and **Web dev**
 
 <!-- BLOG-POST-LIST:START - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
