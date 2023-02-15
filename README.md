@@ -2,7 +2,7 @@
 
  📃 -> The programing language I usually use is pytho, learning c++ and js.
 
- 💻 ->  Now I'm working on a translator for the alfabet to binary for an I2C for an experiment.
+ 💻 -> Now i want to buid an 8-Bit computer using only I2C 
 
 <!--
 **MateoMarian/MateoMarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
