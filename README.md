@@ -1,10 +1,38 @@
- 🐢 -> Hi my name is Mateo i have 16 and I like working with I2C. 
+<h1 align="center">Hi, my name is Mateo Marian</h1>
+
+
+**About me:**
+- I'm 16 and usually I try to learn new things and even to do certain projects myself
+
+**What I do:**
+
+- 📃 The programing language I usually use is pytho, learning **c++** and **js**.
+
+- 🔭 I’m currently try buid an **8-Bit computer using only I2C**
+
+- 🤝 I’m available for **freelancing**.
+
+- 🌱 I’m currently learning **Js** and **c++** for **arduino** and **Web dev**
+
+<!-- BLOG-POST-LIST:START - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
+
+- 💬 Ask me about **8-Bit comuter**
+
+- 📫 How to reach me **Discord: • Mateo• - •Marian •#4073** 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--
+
+🐢 -> Hi my name is Mateo i have 16 and I like working with I2C. 
 
  📃 -> The programing language I usually use is pytho, learning c++ and js.
 
  💻 -> Now i want to buid an 8-Bit computer using only I2C 
 
-<!--
 **MateoMarian/MateoMarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +45,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
