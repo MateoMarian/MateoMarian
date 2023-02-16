@@ -6,7 +6,7 @@
 
 **What I do:**
 
-- 📃 The programing language I usually use is pytho, learning **c++** and **js**.
+- 📃 the programming language I usually use is python and learning **c++** and **js**.
 
 - 🔭 I’m currently try buid an **8-Bit computer using only I2C**
 
