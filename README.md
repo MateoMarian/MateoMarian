@@ -8,8 +8,8 @@
 
 - 📃 the programming language I usually use is python and learning **js**.
 
-- 🔭 I’m currently try buid an **8-Bit computer using only I2C**
-
+<!-- - 🔭 I’m currently try buid an **8-Bit computer using only I2C**
+-->
 - 🤝 I’m available for **freelancing**.
 
 
@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **8-Bit comuter**
 
-- 📫 How to reach me **Discord: • Mateo• - •Marian •#4073** 
+- 📫 How to reach me **Discord: • Mateo• - •Marian •#4073** and **Email: mateo.marian345@gmail.com** 
+
  
  Last Edited on: 15/02/2023
 
