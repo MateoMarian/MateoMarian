@@ -2,7 +2,7 @@
 
 
 **About me:**
-- I'm 16 and usually I try to learn new things and even to do certain projects myself
+- I'm 16 and I try to learn new things and even to do certain projects myself
 
 **What I do:**
 
@@ -15,12 +15,12 @@
 
 <!-- BLOG-POST-LIST:START - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
-- 💬 Ask me about **8-Bit comuter**
+<!-- - 💬 Ask me about **8-Bit comuter**  -->
 
 - 📫 How to reach me **Discord: • Mateo• - •Marian •#4073** and **Email: mateo.marian345@gmail.com** 
 
  
- Last Edited on: 15/02/2023
+ Last Edited on: 24/02/2023
 
  
  
