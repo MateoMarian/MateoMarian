@@ -17,10 +17,10 @@
 
 <!-- - 💬 Ask me about **8-Bit comuter**  -->
 
-- 📫 How to reach me **Discord: • Mateo• - •Marian •#4073** and **Email: mateo.marian345@gmail.com** 
+- 📫 How to reach me **Discord: mateo._.marian** and **Email: mateo.marian345@yahoo.com** 
 
  
- Last Edited on: 24/02/2023
+ Last Edited on: 11/08/2023
 
  
  
